@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="try_your_luck">Try your Luck</string>
+    <string name="todo">TODO</string>
+    <string name="making_decision_essay">making decision essay</string>
 </resources>
